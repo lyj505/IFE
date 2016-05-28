@@ -41,6 +41,7 @@
              border-radius:10px;
              text-indent: 2em; 
              color: #00cc99;
+             overflow: hidden;
                  
         }
         .inner1 span{
